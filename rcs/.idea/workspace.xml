@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bcf18eb-994b-4907-ae26-1d0060020621" name="Changes" comment="added main module" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NhMFc9TNOPXJV2SI4EDVOkyDGb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/marsi/Desktop/sus prg examination 2/rcs"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bcf18eb-994b-4907-ae26-1d0060020621" name="Changes" comment="" />
+      <created>1680111757114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680111757114</updated>
+    </task>
+    <task id="LOCAL-00001" summary="computer class and unit testing for it">
+      <created>1680113812481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680113812481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dice class and unit testing for it">
+      <created>1680114437199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680114437199</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dice class and unit testing for it">
+      <created>1680114511482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680114511482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dice class and unit testing for it">
+      <created>1680114569147</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680114569147</updated>
+    </task>
+    <task id="LOCAL-00005" summary="player class and tests for it">
+      <created>1680115238733</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680115238733</updated>
+    </task>
+    <task id="LOCAL-00006" summary="player class and tests for it">
+      <created>1680116766603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680116766603</updated>
+    </task>
+    <task id="LOCAL-00007" summary="scoreboard and tests for it">
+      <created>1680116811617</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680116811617</updated>
+    </task>
+    <task id="LOCAL-00008" summary="display class and tests for it">
+      <created>1680122543397</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680122543397</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added main module">
+      <created>1680126096962</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680126096962</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added main module">
+      <created>1680126533455</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680126533455</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added main module">
+      <created>1680126542336</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680126542336</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added main module">
+      <created>1680126899244</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680126899244</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="computer class and unit testing for it" />
+    <MESSAGE value="dice class and unit testing for it" />
+    <MESSAGE value="player class and tests for it" />
+    <MESSAGE value="scoreboard and tests for it" />
+    <MESSAGE value="display class and tests for it" />
+    <MESSAGE value="added main module" />
+    <option name="LAST_COMMIT_MESSAGE" value="added main module" />
+  </component>
+</project>
